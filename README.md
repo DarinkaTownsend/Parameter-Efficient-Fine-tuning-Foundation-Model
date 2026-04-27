@@ -33,7 +33,7 @@ The dataset includes:
 | Boundary Maps | Nuclei borders |
 | Distance Maps | Pixel-wise distance encoding |
 
-![DataSet](figures/intro2.png)
+![DataSet](figures/intro2.jpg)
 
 ---
 
@@ -55,17 +55,12 @@ Image → Bounding Boxes → MobileSAM + LoRA → Mask Decoder → Predictions
 
 ## 📊 Results
 
-![DataSet](figures/box.png)
-![DataSet](figures/training.png)
-![DataSet](figures/validation.png)
-![DataSet](figures/mask1.png)
-![DataSet](figures/mask2.png)
-![DataSet](figures/mask3.png)
-![DataSet](figures/results.png)
+![Results](figures/box.png)
+![Results](figures/training.png)
+![Results](figures/validation.png)
+![Results](figures/mask1.png)
+![Results](figures/mask2.png)
+![Results](figures/mask3.png)
+![Results](figures/results.png)
 
 
-
----
-
-## ⭐ Final Notes
-This project demonstrates how **foundation models + parameter-efficient tuning** can be successfully applied to **medical image segmentation** tasks with limited resources.
