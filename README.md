@@ -62,5 +62,8 @@ Image → Bounding Boxes → MobileSAM + LoRA → Mask Decoder → Predictions
 ![Results](figures/mask2.png)
 ![Results](figures/mask3.png)
 ![Results](figures/results.png)
+![Results](figures/resu.png)
+![Results](figures/resu2.png)
+![Results](figures/resu3.png)
 
 
